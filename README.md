@@ -5,7 +5,7 @@ Even when LLM-based agents produce visually effective charts, cautions Microsoft
 
 #### Links
 **Paper** <a href="https://tedconway.github.io/mwsug2026_sgplotly/DV-102.pdf">pdf</a> <a href="https://tedconway.github.io/mwsug2026_sgplotly/DV-102.docx">docx</a>
-**Slides** <a href="https://tedconway.github.io/mwsug2026_sgplotly/MWSUG DV-102.pdf">pdf</a> <a href="https://tedconway.github.io/mwsug2026_duckdb/MWSUG OS-076.pptx">pptx</a>
+**Slides** <a href="https://tedconway.github.io/mwsug2026_sgplotly/MWSUG DV-102.pdf">pdf</a> <a href="https://tedconway.github.io/mwsug2026_sgplotly/MWSUG DV-102.pptx">pptx</a>
 **Code** *coming soon!*
 
 #### Interactive Plotly Chart Examples on GitHub Pages
